@@ -3,9 +3,8 @@
 ## (c) pborys@p-soft.silesia.linux.org.pl 
 ##
 $the_cow = <<EOC;
-                    $thoughts
-                    $thoughts
-                   /
+       $thoughts
+         $thoughts
               ___
       D>=G==='   '.
             |======|
